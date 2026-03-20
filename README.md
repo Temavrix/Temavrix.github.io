@@ -1,11 +1,12 @@
-# Epicalable's Official Website
-Official Website for our startup Epicalable: A organisation based on github.
+# Temavrix's Official Website
+Official Website for our startup Temavrix: A organisation based on github.
 
-Link to our website: https://epicalable.github.io/epicalable.html
+Link to our website: https://Temavrix.github.io/Temavrix.html
 
 # WHAT'S NEW?
 ```
-1. Minor page edits.
+1. Rebranding upgrades
+2. New effects added
 
 Code Checks Manifest:-
 All Checks Status: ✅
@@ -15,6 +16,6 @@ Front-End Stability Checks: ✅
 Code-Frontend Integration Checks: ✅
 (All evaluations are done by the R&D Department)
 
-Last Updated: 2-Feburary-2023 19:50 HRS
-Publisher: Epicalable
+Last Updated: 20-March-2026 14:30 HRS
+Publisher: Temavrix
 ```

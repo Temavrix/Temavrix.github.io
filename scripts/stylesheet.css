@@ -233,3 +233,19 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .epic-border-dark-grey,.epic-hover-border-dark-grey:hover,.epic-border-dark-gray,.epic-hover-border-dark-gray:hover{border-color:#616161!important}
 .epic-border-pale-red,.epic-hover-border-pale-red:hover{border-color:#ffe7e7!important}.epic-border-pale-green,.epic-hover-border-pale-green:hover{border-color:#e7ffe7!important}
 .epic-border-pale-yellow,.epic-hover-border-pale-yellow:hover{border-color:#ffffcc!important}.epic-border-pale-blue,.epic-hover-border-pale-blue:hover{border-color:#e7ffff!important}
+
+.epic-bar-item img {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 6px;
+}
+
+.epic-bar-item {
+  display: inline-flex;
+  align-items: center;
+}
+
+.epic-wide img {
+  display: inline-block;
+  vertical-align: middle;
+}
